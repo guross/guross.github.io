@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.ubuntu {
+  font-family: "Ubuntu";
+  font-weight: 900;
+}
+
+.pagination-text-override a {
+  color: white !important;
+  text-decoration: none !important;
+}
