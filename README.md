@@ -33,3 +33,8 @@ click [**here**](https://rick-and-mort-site.vercel.app/)
 
 -bootstrap
 
+![alt text](https://github.com/murathanbakti/rick-and-mort-wiki/blob/7b004f384650d209db7f471bf6a8bb7233f33b37/public/photo.PNG)
+![alt text](https://github.com/murathanbakti/rick-and-mort-wiki/blob/7b004f384650d209db7f471bf6a8bb7233f33b37/public/photo1.PNG)
+![alt text](https://github.com/murathanbakti/rick-and-mort-wiki/blob/7b004f384650d209db7f471bf6a8bb7233f33b37/public/photo2.PNG)
+![alt text](https://github.com/murathanbakti/rick-and-mort-wiki/blob/7b004f384650d209db7f471bf6a8bb7233f33b37/public/photo3.PNG)
+![alt text](https://github.com/murathanbakti/rick-and-mort-wiki/blob/7b004f384650d209db7f471bf6a8bb7233f33b37/public/photo4.PNG)
